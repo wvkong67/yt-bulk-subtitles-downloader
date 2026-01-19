@@ -24,7 +24,8 @@ A high-performance CLI tool for mass downloading subtitles (captions) from YouTu
 
 ### Option 2: Windows Executable
 
-Download the pre-compiled executable from the [Releases](https://github.com/roundyyy/yt-bulk-subtitles-downloader/releases/download/0.1/yt-bsd.exe) page.
+Download the pre-compiled executable from the [Releases](https://github.com/roundyyy/yt-bulk-subtitles-downloader/releases/download/0.2/ytbsd.exe) page.
+No Python installation required. Place the exe in any folder on your PC and run it. The `subtitles` folder and `proxies.txt` file will be created automatically in the same location as the exe.
 
 ## Requirements
 
@@ -63,5 +64,6 @@ This tool is intended for educational purposes only.
 ## License
 
 MIT License
+
 
 
